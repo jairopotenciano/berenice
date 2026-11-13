@@ -1,0 +1,9 @@
+PUBLICAR LA PAGINA DE BERENICE EN GITHUB PAGES
+
+En el repositorio de GitHub, entra en Code > Add file > Upload files.
+Sube index.html y .nojekyll (puedes omitir este archivo si el selector no permite verlo).
+Después pulsa Commit changes.
+
+Para activar la página: Settings > Pages > Build and deployment > Deploy from a branch.
+Selecciona la rama main y la carpeta /(root), y pulsa Save.
+Cuando GitHub termine de publicar, mostrará la dirección de la página.
